@@ -4,3 +4,4 @@ SQLAlchemy   #this is a database mapper
 python-dotenv
 psycopg2    # it is a postgresql database adapter for python
 alembic
+pydantic[email]
